@@ -1,4 +1,6 @@
 #!/bin/bash
 git add .
-git commit -m "print script"
+git commit -m "print integer"
 git push
+bavinclint
+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
