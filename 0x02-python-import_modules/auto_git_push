@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "own calculator"
+git commit -m "Easy print"
 git push
