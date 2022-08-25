@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "first toolbox"
+git commit -m "script dynamic"
 git push
