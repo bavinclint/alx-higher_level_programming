@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "ByteCode"
+git commit -m "Fast alphabet"
 git push
