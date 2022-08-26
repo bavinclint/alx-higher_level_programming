@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "last digit of a number"
+git commit -m "adds two integers"
 git push
