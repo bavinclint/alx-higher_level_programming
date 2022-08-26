@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Remove at position"
+git commit -m "ByteCode"
 git push
