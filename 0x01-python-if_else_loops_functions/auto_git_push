@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Hexadecimal printing"
+git commit -m "prints numbers"
 git push
