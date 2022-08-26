@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "The last digit"
+git commit -m "ASCII alphabet"
 git push
