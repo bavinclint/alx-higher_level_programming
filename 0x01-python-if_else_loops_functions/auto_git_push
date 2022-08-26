@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "lowercase character"
+git commit -m "string in uppercase"
 git push
