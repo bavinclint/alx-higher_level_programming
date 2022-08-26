@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Fizz Buzz"
+git commit -m "Insert in sorted linked list"
 git push
