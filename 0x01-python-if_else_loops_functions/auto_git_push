@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Insert in sorted linked list"
+git commit -m "Smile in the mirror"
 git push
