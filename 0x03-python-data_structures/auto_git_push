@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "function that removes all characters"
+git commit -m "function that prints a matrix of integers."
 git push
