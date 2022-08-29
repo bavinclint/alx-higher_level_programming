@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "More returns!"
+git commit -m "Find the max"
 git push
