@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Find the max"
+git commit -m "Only by 2"
 git push
