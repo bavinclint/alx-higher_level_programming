@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "replaces an element"
+git commit -m "Print a list of integers... in reverse!"
 git push
