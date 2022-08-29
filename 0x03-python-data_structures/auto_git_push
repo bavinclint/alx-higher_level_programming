@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Delete at"
+git commit -m "Switch"
 git push
