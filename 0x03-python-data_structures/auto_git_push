@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "retrieves an element"
+git commit -m "replaces an element"
 git push
