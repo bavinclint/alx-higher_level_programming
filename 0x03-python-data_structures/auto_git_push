@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "prints all integers"
+git commit -m "retrieves an element"
 git push
