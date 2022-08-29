@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Replace in a copy"
+git commit -m "function that removes all characters"
 git push
