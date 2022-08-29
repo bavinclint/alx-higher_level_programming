@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Switch"
+git commit -m "Linked list palindrome"
 git push
