@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Updated commit"
+git commit -m "More returns!"
 git push
