@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Tuples addition"
+git commit -m "Updated commit"
 git push
