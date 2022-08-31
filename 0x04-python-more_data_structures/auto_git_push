@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'search and replace'
+git commit -m 'unique addition'
 git push
