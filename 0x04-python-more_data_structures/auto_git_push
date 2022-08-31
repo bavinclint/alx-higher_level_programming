@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Best score'
+git commit -m 'Multiply by using map'
 git push
