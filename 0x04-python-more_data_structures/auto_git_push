@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'return set of elements'
+git commit -m 'only different'
 git push
