@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'unique addition'
+git commit -m 'return set of elements'
 git push
