@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Weighted average!'
+git commit -m 'Squared by using map'
 git push
