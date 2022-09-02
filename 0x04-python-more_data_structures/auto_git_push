@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Delete by value'
+git commit -m 'Multiply by using map'
 git push
