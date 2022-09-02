@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "function that prints a matrix of integers."
+git commit -m "Tuples addition"
 git push
