@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Coordinates of a square"
+git commit -m "Singly linked list"
 git push
