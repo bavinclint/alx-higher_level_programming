@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Area of a square"
+git commit -m "private attribute"
 git push
