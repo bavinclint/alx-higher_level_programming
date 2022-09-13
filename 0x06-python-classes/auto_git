@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "private attribute"
+git commit -m "Printing a square"
 git push
