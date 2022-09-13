@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Square with size"
+git commit -m "Size validation"
 git push
