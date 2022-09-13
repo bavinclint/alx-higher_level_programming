@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Raise exception"
+git commit -m "Raise a message"
 git push
