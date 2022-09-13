@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "division with debug"
+git commit -m "Divide a list"
 git push
