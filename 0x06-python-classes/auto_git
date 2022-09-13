@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Compare 2 squares"
+git commit -m "ByteCode -> Python #5"
 git push
