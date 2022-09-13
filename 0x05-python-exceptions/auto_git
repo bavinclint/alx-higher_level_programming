@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "count integers"
+git commit -m "division with debug"
 git push
