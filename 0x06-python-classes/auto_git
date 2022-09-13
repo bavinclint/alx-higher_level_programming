@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Singly linked list"
+git commit -m "Print Square instance"
 git push
