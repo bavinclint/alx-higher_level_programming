@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Safe function"
+git commit -m "ByteCode -> Python"
 git push
