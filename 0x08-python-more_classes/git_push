@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "definition of a rectangle"
+git commit -m "Area and Perimeter"
 git push
