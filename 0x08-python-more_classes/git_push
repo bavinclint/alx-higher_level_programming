@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "String representation"
+git commit -m "Eval is magic"
 git push
