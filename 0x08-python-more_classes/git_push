@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "instances"
+git commit -m "Change representation"
 git push
