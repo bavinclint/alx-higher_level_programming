@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Detect instance deletion"
+git commit -m "instances"
 git push
