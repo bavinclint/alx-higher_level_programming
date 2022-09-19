@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "square is a rectangle"
+git commit -m "queens"
 git push
