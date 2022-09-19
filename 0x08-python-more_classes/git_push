@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Compare rectangles"
+git commit -m "square is a rectangle"
 git push
