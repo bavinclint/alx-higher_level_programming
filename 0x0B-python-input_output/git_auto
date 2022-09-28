@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'To JSON string'
+git commit -m 'From JSON string to Object'
 git push
