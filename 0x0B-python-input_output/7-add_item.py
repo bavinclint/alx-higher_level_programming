@@ -1,14 +1,20 @@
 #!/usr/bin/python3
-""" adds all arguments to a Python list"""
-from sys import argv
+"""Module 7-save_to_json_file.
+Writes an Object to a text file,
+using a JSON representation.
+"""
 
-save_to_json_file = __import__('7-save_to_json_file').save_to_json_file
-load_from_json_file = __import__('8-load_from_json_file').load_from_json_file
 
-listik = argv[1:]
-try:
-    obj = load_from_json_file("add_item.json")
-    save_to_json_file(obj + listik, "add_item.json")
-except:
+import json
 
-    save_to_json_file(listik, "add_item.json")
+
+def save_to_json_file(my_obj, filename):
+    """Writes the representation of my_obj
+    to filename.
+    Args:
+        - my_obj: object to write
+        - filename: file to write into
+    """
+
+    with open(filename, 'w+') as f:
+        json.dump(my_obj, f)
