@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Append to a file'
+git commit -m 'To JSON string'
 git push
