@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Student to JSON'
+git commit -m 'Student to JSON with filter'
 git push
