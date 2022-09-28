@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Square 2'
+git commit -m 'My integer'
 git push
