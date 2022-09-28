@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'written file'
+git commit -m 'Append to a file'
 git push
