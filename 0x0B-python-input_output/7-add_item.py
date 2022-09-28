@@ -1,15 +1,14 @@
 #!/usr/bin/python3
-"""loads adds saves json to file"""
-import json
-import sys
+""" adds all arguments to a Python list"""
+from sys import argv
+
 save_to_json_file = __import__('7-save_to_json_file').save_to_json_file
 load_from_json_file = __import__('8-load_from_json_file').load_from_json_file
 
+listik = argv[1:]
 try:
-    jsonList = load_from_json_file("add_item.json")
+    obj = load_from_json_file("add_item.json")
+    save_to_json_file(obj + listik, "add_item.json")
 except:
-    jsonList = []
 
-for i in sys.argv[1:]:
-    jsonList.append(i)
-save_to_json_file(jsonList, "add_item.json")
+    save_to_json_file(listik, "add_item.json")
