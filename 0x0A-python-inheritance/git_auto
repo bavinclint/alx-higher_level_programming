@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Rectangle'
+git commit -m 'Full rectangle'
 git push
