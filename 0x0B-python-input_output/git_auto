@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Student to disk'
+git commit -m "Pascal's Triangle"
 git push
