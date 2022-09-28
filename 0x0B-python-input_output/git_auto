@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Load, add, save'
+git commit -m 'Class to JSON'
 git push
