@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Geometry module'
+git commit -m 'Improve Geometry'
 git push
