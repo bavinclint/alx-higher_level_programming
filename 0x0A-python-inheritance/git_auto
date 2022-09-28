@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'inherit from'
+git commit -m 'sub class'
 git push
