@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Average"
+git commit -m "Number by score"
 git push
