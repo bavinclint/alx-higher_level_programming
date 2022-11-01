@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Delete a database"
+git commit -m "List tables"
 git push
