@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Number by score"
+git commit -m "Say my name"
 git push
