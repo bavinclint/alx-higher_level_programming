@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "List all in table"
+git commit -m "First add"
 git push
