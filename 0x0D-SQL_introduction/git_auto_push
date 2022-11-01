@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "First add"
+git commit -m "Count 89"
 git push
