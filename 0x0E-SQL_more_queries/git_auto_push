@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "My genres"
+git commit -m "Only Comedy"
 git push
