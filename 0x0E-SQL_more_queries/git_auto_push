@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Cities table"
+git commit -m "Cities of California"
 git push
