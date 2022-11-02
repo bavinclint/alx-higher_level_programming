@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Number of shows by genre"
+git commit -m "My genres"
 git push
