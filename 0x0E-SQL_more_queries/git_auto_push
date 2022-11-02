@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Read user"
+git commit -m "Always a name"
 git push
