@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Always a name"
+git commit -m "ID can't be null"
 git push
