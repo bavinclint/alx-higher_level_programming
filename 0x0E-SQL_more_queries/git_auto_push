@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Root user"
+git commit -m "Read user"
 git push
