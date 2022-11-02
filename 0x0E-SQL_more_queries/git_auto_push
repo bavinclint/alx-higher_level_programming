@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Genre ID for all shows"
+git commit -m "No genre"
 git push
