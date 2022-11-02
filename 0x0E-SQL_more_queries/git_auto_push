@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Unique ID"
+git commit -m "States table"
 git push
