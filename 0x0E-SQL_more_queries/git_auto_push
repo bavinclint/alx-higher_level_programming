@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Cities by States"
+git commit -m "Genre ID by show"
 git push
