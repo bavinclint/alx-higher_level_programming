@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "ID can't be null"
+git commit -m "Unique ID"
 git push
