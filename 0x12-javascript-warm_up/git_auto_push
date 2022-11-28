@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "arguments"
+git commit -m "Value of my argument"
 git push origin
