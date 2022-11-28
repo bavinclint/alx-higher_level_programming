@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Second biggest!"
+git commit -m "script to replace the value"
 git push origin
