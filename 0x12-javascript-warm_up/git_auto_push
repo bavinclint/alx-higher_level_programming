@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "An Integer"
+git commit -m "Loop to languages"
 git push origin
