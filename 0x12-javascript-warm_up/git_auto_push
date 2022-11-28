@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Loop to languages"
+git commit -m "first argument of the script"
 git push origin
