@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "3 languages"
+git commit -m "arguments"
 git push origin
