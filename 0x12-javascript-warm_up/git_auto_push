@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "computes and prints a factorial"
+git commit -m "Second biggest!"
 git push origin
