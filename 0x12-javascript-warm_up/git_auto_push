@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "first argument of the script"
+git commit -m "script that prints a square"
 git push origin
