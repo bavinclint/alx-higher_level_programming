@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "additional features on the class" 
+git commit -m "class that defines a square" 
 git push origin
