@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "base 10 convert" 
+git commit -m "Factor index" 
 git push origin
