@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Factor index" 
+git commit -m "Sorted occurences"
 git push origin
