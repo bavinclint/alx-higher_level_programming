@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Sorted occurences"
+git commit -m "Concat files"
 git push origin
