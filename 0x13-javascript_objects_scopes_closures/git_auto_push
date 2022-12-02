@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Esrever" 
+git commit -m "counter print" 
 git push origin
