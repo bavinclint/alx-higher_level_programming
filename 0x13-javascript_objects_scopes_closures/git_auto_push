@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "class that defines a square" 
+git commit -m "return of a function" 
 git push origin
