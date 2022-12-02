@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "rectangle"
+git commit -m "class that defines a rectangle" 
 git push origin
