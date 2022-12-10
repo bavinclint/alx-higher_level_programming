@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Filter states" 
+git commit -m "Filter states by user input" 
 git push origin
