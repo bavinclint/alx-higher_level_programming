@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'curl body size'
+git commit -m 'curl to the end'
 git push
