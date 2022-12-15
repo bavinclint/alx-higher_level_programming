@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'curl only methods'
+git commit -m 'curl headers'
 git push
