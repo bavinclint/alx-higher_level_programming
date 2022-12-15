@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'curl post parameters'
+git commit -m 'find a peak'
 git push
