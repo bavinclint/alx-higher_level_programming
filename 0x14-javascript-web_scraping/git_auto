@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Star wars Wedge"
+git commit -m "Loripsum"
 git push
