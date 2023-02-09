@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 def magic_string(prmList=[]):
-    prmList += ["Holberton"]
+    prmList += ["BestSchool"]
     return (", ".join(prmList))
