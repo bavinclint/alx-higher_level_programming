@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Right count'
+git commit -m 'Is equal'
 git push
