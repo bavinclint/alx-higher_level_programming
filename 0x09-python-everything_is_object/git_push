@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Is really the same'
+git commit -m 'List append'
 git push
