@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'List add'
+git commit -m 'Integer incrementation'
 git push
