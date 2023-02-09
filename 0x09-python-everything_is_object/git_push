@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'List append'
+git commit -m 'List add'
 git push
