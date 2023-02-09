@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Is really equal'
+git commit -m 'Is really the same'
 git push
